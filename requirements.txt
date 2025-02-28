@@ -1,0 +1,6 @@
+pandas==2.2.3
+pillow==11.1.0
+openai==1.63.2
+python-dotenv==1.0.1
+transformers==4.49.0
+torchvision==0.21.0
